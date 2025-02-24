@@ -1,0 +1,7 @@
+REM "Definir o proxy da escola"
+REM git config --global http.proxy http://etecadolphoberezin@17.1.0.1:3128
+
+REM definir minha conta
+git config --global user.name "Chris"
+
+git config --global user.email "cristovao.santos@etec.sp.gov.br"
