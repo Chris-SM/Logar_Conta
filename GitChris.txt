@@ -16,4 +16,5 @@ git config --global user.name "Chris"
 
 git config --global user.email "cristovao.santos@etec.sp.gov.br"
 git clone https://github.com/Chris-SM/TCC-SafeSchool.git
+cd TCC-SafeSchool
 code . -r
